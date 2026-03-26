@@ -19,6 +19,9 @@ Assurez-vous d'avoir Python installé sur votre machine (HP i5 8th Gen recommand
 Ismail lach'heb Étudiant Data science et systeme intelligent
 Encadré par : M. Tarek AIT BAHA
 
+## dataset
+Lien vers les données : Cliquez ici pour télécharger le Dataset https://drive.google.com/file/d/1WJPSJuLV0EUaJ0qM1VT327rJL0X08WFO/view?usp=sharing
+
 ### 2. Installation
 Clonez le dépôt et installez les dépendances nécessaires :
 ```bash
@@ -26,6 +29,4 @@ git clone [https://github.com/ismaillachhab/Projet-Demande-IA.git](https://githu
 cd Projet-Demande-IA
 pip install -r requirements.txt
 
-## dataset
-Lien vers les données : Cliquez ici pour télécharger le Dataset https://drive.google.com/file/d/1WJPSJuLV0EUaJ0qM1VT327rJL0X08WFO/view?usp=sharing
 
